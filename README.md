@@ -32,7 +32,8 @@ This project has 3 endpoints `/categories/` `/tags/` `/products/`
 Within each of these you can test the following routes GET/POST/PUT/DELETE
 
 GET you can access all of the data in the database or after the / you can input the id of data and GET the selected one.
-POST you can add a new category/tag/product with the correct syntax of course
+POST you can add a new category/tag/product with the correct syntax of course</br>
+</br>
 Products 
 ```
 {
